@@ -30,102 +30,102 @@
 # This behaviour is configured within each individual ore FEATURE config.
 
 lapis:
-  averageCountPerChunk: 2
-  salt: 3542
-  range:
-    min: -32
-    max: 32
-
-lapis-uniform:
-  averageCountPerChunk: 4
-  salt: 5329
-  range:
-    min: -64
-    max: 64
-
-diamond:
-  averageCountPerChunk: 6
-  salt: 1032
-  range:
-    min: -144
-    max: 16
-
-iron:
-  averageCountPerChunk: 10
+  averageCountPerChunk: 20
   salt: 6921
   range:
-    min: -24
-    max: 56
+    min: -144
+    max: 100
+
+lapis-uniform:
+  averageCountPerChunk: 20
+  salt: 6921
+  range:
+    min: -144
+    max: 100
+
+diamond:
+  averageCountPerChunk: 20
+  salt: 6921
+  range:
+    min: -144
+    max: 100
+
+iron:
+  averageCountPerChunk: 20
+  salt: 6921
+  range:
+    min: -144
+    max: 100
 
 iron-uniform:
-  averageCountPerChunk: 10
-  salt: 2013
+  averageCountPerChunk: 20
+  salt: 6921
   range:
-    min: -64
-    max: 72
+    min: -144
+    max: 100
 
 iron-high:
-  averageCountPerChunk: 90
-  salt: 2031
+  averageCountPerChunk: 20
+  salt: 6921
   range:
-    min: 80
-    max: 384
+    min: -144
+    max: 100
 
 copper:
-  averageCountPerChunk: 16
-  salt: 2932
+  averageCountPerChunk: 20
+  salt: 6921
   range:
-    min: -16
-    max: 112
+    min: -144
+    max: 100
 
 redstone:
-  averageCountPerChunk: 8
-  salt: 7019
+  averageCountPerChunk: 20
+  salt: 6921
   range:
-    min: -96
-    max: -32
+    min: -144
+    max: 100
 
 redstone-uniform:
-  averageCountPerChunk: 4
-  salt: 1923
+  averageCountPerChunk: 20
+  salt: 6921
   range:
-    min: -64
-    max: 16
+    min: -144
+    max: 100
 
 coal:
-  averageCountPerChunk: 10
-  salt: 1068
+  averageCountPerChunk: 20
+  salt: 6921
   range:
-    min: 0
-    max: 192
+    min: -144
+    max: 100
 
 coal-uniform:
-  averageCountPerChunk: 15
-  salt: 7012
+  averageCountPerChunk: 20
+  salt: 6921
   range:
-    min: 136
-    max: 319
+    min: -144
+    max: 100
 
 gold:
-  averageCountPerChunk: 4
-  salt: 5912
+  averageCountPerChunk: 20
+  salt: 6921
   range:
-    min: -64
-    max: 32
+    min: -144
+    max: 100
 
 gold-uniform:
-  averageCountPerChunk: 1/2
-  salt: 3313
+  averageCountPerChunk: 20
+  salt: 6921
   range:
-    min: -64
-    max: -48
+    min: -144
+    max: 100
 
 emerald:
-  averageCountPerChunk: 100
-  salt: 5091
+  averageCountPerChunk: 20
+  salt: 6921
   range:
-    min: -16
-    max: 480
+    min: -144
+    max: 100
 
 # ---
 # Deposits
